@@ -1,0 +1,20 @@
+.odd-numbers {
+    background-color: pink;
+}
+
+#id1 {
+    font-size: 32px;
+    color: blue;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.font {
+    font-size: 24px;
+}
+
+#id2 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
